@@ -1,0 +1,19 @@
+
+
+
+/*CSS STUFF*/
+
+
+iframe{
+    height: 100px;
+    width: 150px;
+}
+
+td{
+    border: 2px solid black;
+    padding: 6px 6px;
+}
+
+tbody tr:nth-child(even) {
+    background: #aca252;
+}
